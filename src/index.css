@@ -234,7 +234,7 @@ button:hover {
   height: 350px;
   width: 400px;
   mix-blend-mode: screen;
-  
+  margin-right: 70px;
 
 }
 
@@ -318,6 +318,7 @@ button:hover {
   .Avatar {
     width: 200px;
     margin-bottom: 75px;
+    margin-right: 10px;
   }
 }
 
@@ -361,6 +362,7 @@ button:hover {
   .Avatar {
     width: 200px;
     margin-bottom: 25px;
+    margin-right: 5px;
   }
 
   .SkillsHeading {
