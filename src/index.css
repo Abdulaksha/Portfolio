@@ -245,10 +245,8 @@ button:hover {
     display: inline-block;
   }
   .img {
-    width: 250px;
-    height: auto;
-    margin-bottom: 25px;
-    align-items: center;
+    
+    margin-right: 20px;
   }
 }
 
@@ -268,10 +266,7 @@ button:hover {
     font-size: 24px;
   }
   .img {
-    width: 200px;
-    height: auto;
-    margin-bottom: 25px;
-    margin-left: 20px;
+    margin-right: 20px;
 }
 }
 
