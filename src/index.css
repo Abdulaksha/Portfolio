@@ -8,19 +8,18 @@
   position: relative;
   overflow-x: hidden;
   -webkit-tap-highlight-color: transparent;
-  --color: #640866;
+  --color: #04195f;
 }
 body {
   font-family: "Raleway", sans-serif;
   background: radial-gradient(
     1700px circle at 4.48% 0%,
-    #000a13 0%,
-    #04193d 100%
+    #537aab 0%,
+    #124285 100%
   );
   color: #e7e7e7;
   min-height: 100vh;
 }
-
 
 b {
   font-weight: 900;
@@ -216,8 +215,6 @@ button:hover {
   margin-bottom: -50px;
   align-items: center;
 }
-
-
 .HomeText h1 {
   font-weight: 600;
   font-size: 38px;
@@ -231,7 +228,11 @@ button:hover {
   font-size: 32px;
   letter-spacing: 0.6px;
 }
-
+.Avatar {
+  height: 350px;
+  width: 400px;
+  mix-blend-mode: screen;
+}
 
 @media (max-width: 900px) {
   .HomePage {
@@ -243,10 +244,6 @@ button:hover {
   .HomeText {
     text-align: left;
     display: inline-block;
-  }
-  .img {
-    
-    margin-right: 50px;
   }
 }
 
@@ -265,9 +262,6 @@ button:hover {
     font-weight: 500;
     font-size: 24px;
   }
-  .img {
-    margin-right: 50px;
-}
 }
 
 /* ABOUT */
@@ -320,7 +314,6 @@ button:hover {
   .Avatar {
     width: 200px;
     margin-bottom: 75px;
-    
   }
 }
 
@@ -364,7 +357,6 @@ button:hover {
   .Avatar {
     width: 200px;
     margin-bottom: 25px;
-    
   }
 
   .SkillsHeading {
@@ -406,7 +398,7 @@ button:hover {
 }
 .projectBox:hover {
   transform: scale(1.05);
-  background-color: rgb(12, 23, 108);
+  background-color: rgb(27, 39, 125);
 }
 
 .projectPhoto {
