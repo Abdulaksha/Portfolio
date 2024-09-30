@@ -231,13 +231,7 @@ button:hover {
   font-size: 32px;
   letter-spacing: 0.6px;
 }
-.Avatar {
-  height: 350px;
-  width: 400px;
-  mix-blend-mode: screen;
-  margin-right: 70px;
 
-}
 
 @media (max-width: 900px) {
   .HomePage {
@@ -254,7 +248,7 @@ button:hover {
     width: 250px;
     height: auto;
     margin-bottom: 25px;
-    margin-right: 25px;
+    align-items: center;
   }
 }
 
@@ -277,7 +271,7 @@ button:hover {
     width: 200px;
     height: auto;
     margin-bottom: 25px;
-    margin-right: 25px;
+    align-items: center;
 }
 }
 
