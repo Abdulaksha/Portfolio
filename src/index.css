@@ -217,9 +217,7 @@ button:hover {
   align-items: center;
 }
 
-.img{
-  margin-right: 50px;
-}
+
 .HomeText h1 {
   font-weight: 600;
   font-size: 38px;
@@ -252,7 +250,7 @@ button:hover {
     text-align: left;
     display: inline-block;
   }
-  .Avatar {
+  .img {
     width: 250px;
     height: auto;
     margin-bottom: 25px;
@@ -274,7 +272,7 @@ button:hover {
     font-weight: 500;
     font-size: 24px;
   }
-  .Avatar {
+  .img {
     width: 200px;
     height: auto;
     margin-bottom: 25px;
