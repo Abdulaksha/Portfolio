@@ -8,7 +8,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
 
     MovieDesc:
       "This web app  is for helping you find your desired movie.The project helped me with understanding the working of API.I also learned new CSS properties and tricks.",
-    MovieGithub: "https://github.com/EshaalB/Movie-App",
+    MovieGithub: "https://github.com/Abdulaksha/Moviesapp",
     MovieWebsite: "https://film-mania.vercel.app/",
 
     weatherappDesc:
