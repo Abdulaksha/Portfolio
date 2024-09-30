@@ -20,7 +20,9 @@ body {
   color: #e7e7e7;
   min-height: 100vh;
 }
-
+.img{
+  margin-right: 70px;
+}
 b {
   font-weight: 900;
   color: var(--color);
@@ -232,6 +234,8 @@ button:hover {
   height: 350px;
   width: 400px;
   mix-blend-mode: screen;
+  
+
 }
 
 @media (max-width: 900px) {
