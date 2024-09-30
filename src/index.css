@@ -252,6 +252,11 @@ button:hover {
     text-align: left;
     display: inline-block;
   }
+  .Avatar {
+    width: 250px;
+    height: auto;
+    margin-bottom: 25px;
+  }
 }
 
 @media (max-width: 500px) {
@@ -269,6 +274,11 @@ button:hover {
     font-weight: 500;
     font-size: 24px;
   }
+  .Avatar {
+    width: 200px;
+    height: auto;
+    margin-bottom: 25px;
+}
 }
 
 /* ABOUT */
