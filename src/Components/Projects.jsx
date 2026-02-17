@@ -1,6 +1,6 @@
 import React from "react";
 import ProjectBox from "./ProjectBox";
-import FilmImage from "../Images/Film.png";
+import FilmImage from "../Images/employee.png";
 import ColourImage from "../Images/Untitled design (2).png";
 import BackpackImage from "../Images/Untitled design.png";
 
