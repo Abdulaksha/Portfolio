@@ -1,7 +1,7 @@
 import React from "react";
 import Type from "./Type.jsx";
 import Tilt from "react-parallax-tilt";
-import Avatar from "../images/1727341140501.png"; 
+import Avatar from "../Images/1727341140501.png"; 
 import { CgPhone } from "react-icons/cg";
 import { BsPerson } from "react-icons/bs";
 

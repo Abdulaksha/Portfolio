@@ -27,7 +27,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     borderRadius: "10px",
     padding: "10px",
     boxShadow: "0 0 10px rgba(0,0,0,0.1)",
-    minHeight: "400px", // use minHeight instead of height
+    minHeight: "400px", 
   }}
 >
   <img
