@@ -1,8 +1,8 @@
 import React from "react";
 import ProjectBox from "./ProjectBox";
-import FilmImage from "../images/film.png";
-import ColourImage from "../images/Untitled design (2).png";
-import BackpackImage from "../images/untitled design.png";
+import FilmImage from "../Images/Film.png";
+import ColourImage from "../Images/Untitled design (2).png";
+import BackpackImage from "../Images/Untitled design.png";
 
 const Projects = () => {
   return (
