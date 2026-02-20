@@ -1,8 +1,8 @@
 import React from "react";
 import ProjectBox from "./ProjectBox";
-import FilmImage from "../Images/employee.png";
-import ColourImage from "../Images/Untitled design (2).png";
-import BackpackImage from "../Images/Untitled design.png";
+import FilmImage from "../Images/employee.webp";
+import ColourImage from "../Images/Untitled design (2).webp";
+import BackpackImage from "../Images/Untitled design.webp";
 
 const Projects = () => {
   return (
