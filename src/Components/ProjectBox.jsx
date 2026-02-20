@@ -34,6 +34,9 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
     className="projectPhoto"
     src={projectPhoto}
     alt={`${projectName} display`}
+     loading="lazy"  // <--- ADD THIS
+  width="380"     // <--- ADD WIDTH
+  height="200"    // <--- ADD HEIGHT
     style={{ width: "100%", height: "auto", borderRadius: "10px" }}
   />
 
