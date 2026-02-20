@@ -5,17 +5,17 @@ import { CgFileDocument } from "react-icons/cg";
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
     
-    EmployeeERPDesc: "A comprehensive Full-Stack HR Management application designed to handle the complete lifecycle of employee data, from onboarding to payroll configuration. Built with Type-Safety and Relational Database Integrity in mind.",
-    EmployeeERPGithub: "https://github.com/Abdulaksha/employee-erp-system",
-    EmployeeERPWebsite: "https://employee-erp-system.vercel.app",
+    "Employee ERPDesc": "A comprehensive Full-Stack HR Management application designed to handle the complete lifecycle of employee data, from onboarding to payroll configuration. Built with Type-Safety and Relational Database Integrity in mind.",
+    "Employee ERPGithub": "https://github.com/Abdulaksha/employee-erp-system",
+    "Employee ERPWebsite": "https://employee-erp-system.vercel.app",
 
-    weatherappDesc: "This web application allows users to effortlessly check current weather conditions and forecasts. Features real-time updates and an intuitive interface.",
-    weatherappGithub: "https://github.com/Abdulaksha/Weather-app",
-    weatherappWebsite: "https://weather-app-abdulakshas-projects.vercel.app/",
+    "weather appDesc": "This web application allows users to effortlessly check current weather conditions and forecasts. Features real-time updates and an intuitive interface.",
+    "weather appGithub": "https://github.com/Abdulaksha/Weather-app",
+    "weather appWebsite": "https://weather-app-abdulakshas-projects.vercel.app/",
 
-    ToDoListDesc: "Web application where users can manage their grocery shopping lists. Demonstrates dynamic data handling and user interaction.",
-    ToDoListGithub: "https://github.com/Abdulaksha/To-Do-list",
-    ToDoListWebsite: "https://akshatodolist.vercel.app/",
+    "ToDo ListDesc": "Web application where users can manage their grocery shopping lists. Demonstrates dynamic data handling and user interaction.",
+    "ToDoListGithub": "https://github.com/Abdulaksha/To-Do-list",
+    "ToDo ListWebsite": "https://akshatodolist.vercel.app/",
   };
 
   return (

@@ -12,9 +12,9 @@ const Projects = () => {
       </h1>
       <div className="project">
         
-        <ProjectBox projectPhoto={FilmImage} projectName="EmployeeERP" />
-        <ProjectBox projectPhoto={ColourImage} projectName="weatherapp" />
-        <ProjectBox projectPhoto={BackpackImage} projectName="ToDoList" />
+        <ProjectBox projectPhoto={FilmImage} projectName="Employee ERP" />
+        <ProjectBox projectPhoto={ColourImage} projectName="weather app" />
+        <ProjectBox projectPhoto={BackpackImage} projectName="ToDo List" />
       </div>
     </div>
   );
